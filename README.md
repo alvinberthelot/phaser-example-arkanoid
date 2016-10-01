@@ -18,6 +18,7 @@ Git and Node.js are required
 
 3. Install dependencies
 
+	npm install -g gulp
 	npm install
 
 4. Enjoy :)
